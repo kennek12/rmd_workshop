@@ -1,0 +1,88 @@
+File Manifest for ICPSR 32722
+
+United States Department of Health and Human Services. Substance Abuse and
+Mental Health Services Administration. Center for Behavioral Health
+Statistics and Quality. National Survey on Drug Use and Health, 2010.
+ICPSR32722-v6. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2015-11-23.
+http://doi.org/10.3886/ICPSR32722.v6
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    32722-descriptioncitation.pdf       -       -         -       2019-06-27  -
+
+    32722-related_literature.txt        -       -         -       daily       -
+
+    32722-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 National Survey on Drug Use and Health, 2010
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    32722-0001-Codebook.pdf             -       -         -       2015-11-23  f10bc5bff7982bf9f483981917ce5b43
+
+    32722-0001-Data.dta                 -       57,313    3128    2014-09-05  29ea79547ba72e35046cdb6f828688de
+
+    32722-0001-Data.rda                 -       57,313    3128    2014-06-26  940c88f457629676a7e9f35d45ca292f
+
+    32722-0001-Data.sav                 -       57,313    3128    2014-06-26  5b3521ef778c8adb87373ce071bc10e1
+
+    32722-0001-Data.stc                 -       57,313    3128    2014-06-26  d2787ff09365cf6f0f3453fa055a418e
+
+    32722-0001-Data.tsv                 -       57,313    3128    2014-06-26  4b67fe1c1b000e9e2528abc67b63af65
+
+    32722-0001-Data.txt                 6846    57,313    3128    2014-06-26  d20a75cb177a428ab485c36d85ef883f
+
+    32722-0001-Documentation-method_resources.pdf -       -         -       2015-11-23  162ff047557446e51df5616eb4634d78
+
+    32722-0001-Questionnaire-screener.pdf -       -         -       2015-11-23  2839d80318cd758fc2d5c601490a8e3c
+
+    32722-0001-Questionnaire-showcards.pdf -       -         -       2015-11-23  283985090dc463e915f2f7644e3dcf17
+
+    32722-0001-Questionnaire-specifications.pdf -       -         -       2015-11-23  f80de51841ecbd6f526ae536d90ebf67
+
+    32722-0001-Setup.dct                -       -         -       2014-06-26  6a67597f878b30f30d3e2171e8fcaa91
+
+    32722-0001-Setup.do                 -       -         -       2014-06-26  76615c89e0d3401f164a6f5a93c59b3b
+
+    32722-0001-Setup.sas                -       -         -       2014-06-26  280ad1a1ca2ab92539cfb1552bed0f00
+
+    32722-0001-Setup.sps                -       -         -       2014-06-26  9559e4fd4138fb7f207ba8eb20d04a95
+
+    32722-0001-Supplemental_syntax.do   -       -         -       2014-09-05  dd20cb68543127a3a1a03cf01f47e957
+
+    32722-0001-Supplemental_syntax.sas  -       -         -       2014-06-26  9c0cfb12020629e42829f177a1b75c12
+
+
+Version History
+
+2015-11-23 Covers for the PDF documentation were revised.  2014-09-05
+Changed the Stata system data file from version 13 to version 12 for
+compatibility on a wider range of systems. Updated codebook to include
+correct frequencies from the data.  2014-06-26 <p>Since the release of the
+previous version of the 2010 Public Use Data File and Codebook a number of
+variables have been added. Some of the additional variables are revised
+versions of previous variables and replace the ones removed from the data
+file.</p><p>A model to predict adult mental illness was revised in the 2012
+NSDUH to produce more accurate estimates. The mental illness variables
+included in the 2010 NSDUH data files are based on the revised 2012
+model.</p><p>One new geographic variable(PDEN00), has been added to the
+data file to replace the previous PDEN variable. In this case, the only
+difference is the variable name. The variable has been renamed to indicate
+which census data was used in its construction.</p>  2013-06-20 The NSDUH
+public-use data files have been updated with a corrected value label.
+2012-11-21 The NSDUH public-use data files have been updated with a
+corrected variable label.  2012-10-19 The data files have been updated by
+omitting extraneous variables.  2012-10-18 The 2010 NSDUH public-use data
+file has been updated to include 12 new variables related to adult and
+adolescent depression, and a weight variable post stratified to the 2010
+Census. Please view Table 4 of the codebook for more information on these
+variables.
