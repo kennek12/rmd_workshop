@@ -1,5 +1,3 @@
-
-
 library(ggplot2)
 
 #1. Plot the means of each category of the ANOVA analysis in a boxplot, using ggplot2. You should have 4 boxplots on the one plot with overall_health on the y axis.

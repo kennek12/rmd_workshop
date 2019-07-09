@@ -16,7 +16,7 @@ Growing up with a diagnosed mood disorder can significantly increase the changes
 
 ## Methods
 
-For this study we will collaborate with fellow workshop attendees to determine if there is an effect of having tried a cigarette on overall health rating from the NSDUH 2010 data. Since we are confident that we will find an effect, we will be looking at differences in self-reported gender as well. To address this problem we will run a simple between-groups ANOVA, comparing the mean effects of having tried a cigarette on self-reported health. We believe that this sub sample of survey respondents who have been treated for a mood disorder and have tried a cigarette will report a lower index of self-reported overall health. 
+For this study we will collaborate with fellow workshop attendees to determine if there is an effect of having tried a cigarette on overall health rating from the NSDUH 2010 data. Since we are confident that we will find an effect, we will be looking at differences in self-reported gender as well. To address this problem we will run a simple between-groups ANOVA, comparing the mean effects of having tried a cigarette on self-reported health. We believe that this sub sample of survey respondents who have been treated for a mood disorder and have tried a cigarette will report a lower index of self-reported overall health.
 
 ## Results
 
