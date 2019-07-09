@@ -1,4 +1,4 @@
-source("script/import.R", local = TRUE)
+
 
 library(ggplot2)
 

@@ -1,7 +1,7 @@
 #Libraries Used
 
 #Import data from file
-load("data/ICPSR_32722/DS0001/32722-0001-Data.rda")
+load("../../data/ICPSR_32722/DS0001/32722-0001-Data.rda")
 
 #Change the reference name to df, which means data frame. Remove extra variable from environment
 df <- da32722.0001
